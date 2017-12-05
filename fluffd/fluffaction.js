@@ -216,20 +216,29 @@ commands["dlc_deactivate"] = {
 
 /*** Preprogrammed buttons that you can add yourself ***/
 commands["other"] = {
+  run : function(fluff, params, callback) {
+    fluff.generalPlusWrite(new Buffer([0x13, 0x00, params.input, params.index, params.subindex, params.specific]), callback);
+  },
+  readable : "Preprogrammed Actions",
+  description : "Furby move / talk buttons",
+  buttons : {
+    "giggle" : {"readable" : "Giggle", "cmd" : "action", "params" : {"input" : 55, "index" : 2, "subindex" : 14, "specific" : 0}},
+    "puke" : {"readable" : "Puke", "cmd" : "action", "params" : {"input" : 56, "index" : 3, "subindex" : 15, "specific" : 1}},
+    "name" : {"readable" : "Say a Name", "cmd" : "setname", "params" : {"name" : 3}},
+    "antennaoff" :  {"readable" : "Turn Antenna LED Off", "cmd" : "antenna", "params" : {"red" : 0, "blue" : 0, "green" : 0}},
+    "antennared" :  {"readable" : "Antenna LED Red", "cmd" : "antenna", "params" : {"red" : 255, "blue" : 0, "green" : 0}},
+    "antennablue" : {"readable" : "Antenna LED Blue", "cmd" : "antenna", "params" : {"red" : 0, "blue" : 255, "green" : 0}},
+    "antennagreen" : {"readable" : "Antenna LED Green", "cmd" : "antenna", "params" : {"red" : 0, "blue" : 0, "green" : 255}},
+  }
+}
+
+commands["stock_actions"] = {
 	run : function(fluff, params, callback) {
 		fluff.generalPlusWrite(new Buffer([0x13, 0x00, params.input, params.index, params.subindex, params.specific]), callback);
 	},
-	readable : "Preprogrammed Actions",
+	readable : "Stock Preprogrammed Actions",
 	description : "Furby move / talk buttons",
-	buttons : {
-		"giggle" : {"readable" : "Giggle", "cmd" : "action", "params" : {"input" : 55, "index" : 2, "subindex" : 14, "specific" : 0}},
-		"puke" : {"readable" : "Puke", "cmd" : "action", "params" : {"input" : 56, "index" : 3, "subindex" : 15, "specific" : 1}},
-		"name" : {"readable" : "Say a Name", "cmd" : "setname", "params" : {"name" : 3}},
-		"antennaoff" :  {"readable" : "Turn Antenna LED Off", "cmd" : "antenna", "params" : {"red" : 0, "blue" : 0, "green" : 0}},
-		"antennared" :  {"readable" : "Antenna LED Red", "cmd" : "antenna", "params" : {"red" : 255, "blue" : 0, "green" : 0}},
-		"antennablue" : {"readable" : "Antenna LED Blue", "cmd" : "antenna", "params" : {"red" : 0, "blue" : 255, "green" : 0}},
-		"antennagreen" : {"readable" : "Antenna LED Green", "cmd" : "antenna", "params" : {"red" : 0, "blue" : 0, "green" : 255}},
-	}
+	buttons : require('./actions.json')
 }
 
 module.exports = {

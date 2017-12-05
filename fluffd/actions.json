@@ -1,0 +1,2724 @@
+{
+  "action_39_0_0_0": {
+    "readable": "Oooh, look",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_39_0_0_1": {
+    "readable": "Oooh, check it out noo-lah",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_39_0_0_2": {
+    "readable": "Would ya look at that?",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_39_0_0_3": {
+    "readable": "Looky looky look look",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_39_0_1_0": {
+    "readable": "gimme, gimme, gimme",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_39_0_1_1": {
+    "readable": "best news evahhh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_39_0_1_2": {
+    "readable": "oooh, daboo daboo nah way",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 1, "specific": 2 }
+  },
+  "action_39_0_1_3": {
+    "readable": "ermagerd",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 1, "specific": 3 }
+  },
+  "action_39_0_1_4": {
+    "readable": "ahem, ooo, for kah?",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 1, "specific": 4 }
+  },
+  "action_39_0_3_0": {
+    "readable": "ooh, what inside?",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 3, "specific": 0 }
+  },
+  "action_39_0_3_1": {
+    "readable": "open sesame, ha",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 3, "specific": 1 }
+  },
+  "action_39_0_3_2": {
+    "readable": "what inside, kah need to know",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 3, "specific": 2 }
+  },
+  "action_39_0_4_0": {
+    "readable": "oooh, special, really special",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 4, "specific": 0 }
+  },
+  "action_39_0_4_1": {
+    "readable": "oooh, big reward, dido",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 4, "specific": 1 }
+  },
+  "action_39_0_4_2": {
+    "readable": "oooh, a rare one",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 4, "specific": 2 }
+  },
+  "action_39_0_4_3": {
+    "readable": "oooh, look ooh-nye, a special one",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 4, "specific": 3 }
+  },
+  "action_39_0_4_4": {
+    "readable": "oooh, look ooh-nye, a special one",
+    "cmd": "action",
+    "params": { "input": 39, "index": 0, "subindex": 4, "specific": 4 }
+  },
+  "action_39_1_0_0": {
+    "readable": "hurry, egg",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 0 }
+  },
+  "action_39_1_0_1": {
+    "readable": "come on egg",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 1 }
+  },
+  "action_39_1_1_0": {
+    "readable": "hmmm, let's see",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 1, "specific": 0 }
+  },
+  "action_39_1_1_1": {
+    "readable": "hmm, what have we have here?",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 1, "specific": 1 }
+  },
+  "action_39_1_1_2": {
+    "readable": "oooh, very interesting",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 1, "specific": 2 }
+  },
+  "action_39_1_1_3": {
+    "readable": "hmmm",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 1, "specific": 3 }
+  },
+  "action_39_1_2_0": {
+    "readable": "blow",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 2, "specific": 0 }
+  },
+  "action_39_1_3_0": {
+    "readable": "blow nose?",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 3, "specific": 0 }
+  },
+  "action_39_1_4_0": {
+    "readable": "blow",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 4, "specific": 0 }
+  },
+  "action_39_1_5_0": {
+    "readable": "slurp",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 5, "specific": 0 }
+  },
+  "action_39_1_6_0": {
+    "readable": "ooo, make it shiny",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 6, "specific": 0 }
+  },
+  "action_39_1_6_1": {
+    "readable": "clean egg is happy egg",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 6, "specific": 1 }
+  },
+  "action_39_1_6_2": {
+    "readable": "rub a dub dub dub",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 6, "specific": 2 }
+  },
+  "action_39_1_7_0": {
+    "readable": "ooh, so warm, like waaarm",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 7, "specific": 0 }
+  },
+  "action_39_1_7_1": {
+    "readable": "oooh, warm fuzzies",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 7, "specific": 1 }
+  },
+  "action_39_1_7_2": {
+    "readable": "so snug, so cozy, so snoozy",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 7, "specific": 2 }
+  },
+  "action_39_1_8_0": {
+    "readable": "errrrgh, smooth",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 8, "specific": 0 }
+  },
+  "action_39_1_8_1": {
+    "readable": "haaaa, squish",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 8, "specific": 1 }
+  },
+  "action_39_1_8_2": {
+    "readable": "muhoooo, kah favorite",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 8, "specific": 2 }
+  },
+  "action_39_1_8_3": {
+    "readable": "ooh, oo-nye cutesy whoopsy shmootsy",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 8, "specific": 3 }
+  },
+  "action_39_1_8_4": {
+    "readable": "hmm, rock a by furby, dee do",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 8, "specific": 4 }
+  },
+  "action_39_1_9_0": {
+    "readable": "eetay, good job!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 0 }
+  },
+  "action_39_1_9_1": {
+    "readable": "eetay, fantastico!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 1 }
+  },
+  "action_39_1_9_2": {
+    "readable": "sweet mother of furb",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 2 }
+  },
+  "action_39_1_9_3": {
+    "readable": "ooh, wow, gimme all the maymay",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 3 }
+  },
+  "action_39_1_9_4": {
+    "readable": "oooh, kah love it",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 4 }
+  },
+  "action_39_1_9_5": {
+    "readable": "oooh, kah likey",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 5 }
+  },
+  "action_39_1_9_6": {
+    "readable": "ooh, yeah, kah need this",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 6 }
+  },
+  "action_39_1_9_7": {
+    "readable": "yay! ohhh ah uh ooo",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 7 }
+  },
+  "action_39_1_9_8": {
+    "readable": "wow, we unstoppable",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 9, "specific": 8 }
+  },
+  "action_39_1_0_0": {
+    "readable": "oooh, ahh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 0 }
+  },
+  "action_39_1_0_1": {
+    "readable": "kah all like, whaaaat?!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 1 }
+  },
+  "action_39_1_0_2": {
+    "readable": "whoah",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 2 }
+  },
+  "action_39_1_0_3": {
+    "readable": "mmmm",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 3 }
+  },
+  "action_39_1_0_4": {
+    "readable": "ooh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 4 }
+  },
+  "action_39_1_0_5": {
+    "readable": "hey",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 5 }
+  },
+  "action_39_1_0_6": {
+    "readable": "mmm, oh, kah furb",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 6 }
+  },
+  "action_39_1_0_7": {
+    "readable": "ooh ah, hoo hoo hooo",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 0, "specific": 7 }
+  },
+  "action_39_1_2_0": {
+    "readable": "dooo doo dooo dah doo",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 2, "specific": 0 }
+  },
+  "action_39_1_2_1": {
+    "readable": "Lovely, lovely, lovely",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 2, "specific": 1 }
+  },
+  "action_39_1_2_2": {
+    "readable": "dooo, dooo doo mmm mmm",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 2, "specific": 2 }
+  },
+  "action_39_1_3_0": {
+    "readable": "sings",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 3, "specific": 0 }
+  },
+  "action_39_1_3_1": {
+    "readable": "fox in pants song",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 3, "specific": 1 }
+  },
+  "action_39_1_3_2": {
+    "readable": "beatbox",
+    "cmd": "action",
+    "params": { "input": 39, "index": 1, "subindex": 3, "specific": 2 }
+  },
+  "action_39_2_0_0": {
+    "readable": "ding ding egg ready, so exciting",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 0, "specific": 0 }
+  },
+  "action_39_2_0_1": {
+    "readable": "ooh, look, egg gonna hatch",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 0, "specific": 1 }
+  },
+  "action_39_2_1_0": {
+    "readable": "oh, so widdle, so cute, here it comes",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 0 }
+  },
+  "action_39_2_1_1": {
+    "readable": "break free, little furb",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 1 }
+  },
+  "action_39_2_1_2": {
+    "readable": "awww, so precious!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 2 }
+  },
+  "action_39_2_1_3": {
+    "readable": "oh, eh, hehehe, ah",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 3 }
+  },
+  "action_39_2_1_4": {
+    "readable": "oh, hehhee, oooh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 4 }
+  },
+  "action_39_2_1_5": {
+    "readable": "wooohoo, ok, alright, heh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 5 }
+  },
+  "action_39_2_1_6": {
+    "readable": "huh, whoah, whoah whoa",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 6 }
+  },
+  "action_39_2_1_7": {
+    "readable": "whoo, this is happening!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 7 }
+  },
+  "action_39_2_1_8": {
+    "readable": "huh, ooooh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 1, "specific": 8 }
+  },
+  "action_39_2_3_0": {
+    "readable": "hey, help a furb out",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 3, "specific": 0 }
+  },
+  "action_39_2_3_1": {
+    "readable": "furbling need help, kah to the rescue",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 3, "specific": 1 }
+  },
+  "action_39_2_3_2": {
+    "readable": "look little dido need help",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 3, "specific": 2 }
+  },
+  "action_39_2_3_3": {
+    "readable": "let's give little guy a hand",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 3, "specific": 3 }
+  },
+  "action_39_2_3_4": {
+    "readable": "we help, us to the rescue",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 3, "specific": 4 }
+  },
+  "action_39_2_4_0": {
+    "readable": "ohh, dis gonna be good",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 4, "specific": 0 }
+  },
+  "action_39_2_4_1": {
+    "readable": "huh, whoah, whoah whoa",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 4, "specific": 1 }
+  },
+  "action_39_2_4_2": {
+    "readable": "whoo, this is happening!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 4, "specific": 2 }
+  },
+  "action_39_2_4_3": {
+    "readable": "huh, ooooh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 4, "specific": 3 }
+  },
+  "action_39_2_4_4": {
+    "readable": "wooohoo, ok, alright, heh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 4, "specific": 4 }
+  },
+  "action_39_2_4_5": {
+    "readable": "ermagerd",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 4, "specific": 5 }
+  },
+  "action_39_2_5_0": {
+    "readable": "hello, baby",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 0 }
+  },
+  "action_39_2_5_1": {
+    "readable": "baby, hello, la la la",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 1 }
+  },
+  "action_39_2_5_2": {
+    "readable": "ooooohhhh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 2 }
+  },
+  "action_39_2_5_3": {
+    "readable": "success, kah has it",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 3 }
+  },
+  "action_39_2_5_4": {
+    "readable": "yes, the day is ours!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 4 }
+  },
+  "action_39_2_5_5": {
+    "readable": "oooh, oo-nye magic",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 5 }
+  },
+  "action_39_2_5_6": {
+    "readable": "dude, dido, yes, very yes",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 6 }
+  },
+  "action_39_2_5_7": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 7 }
+  },
+  "action_39_2_5_8": {
+    "readable": "eeeeeee-eeee",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 8 }
+  },
+  "action_39_2_5_9": {
+    "readable": "oooh ah ooh ooh ooh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 2, "subindex": 5, "specific": 9 }
+  },
+  "action_39_3_0_0": {
+    "readable": "kah name ad-dah, oo-nye name ad-dah (name specific?)",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 0, "specific": 0 }
+  },
+  "action_39_3_1_0": {
+    "readable": "oooh, doo doo doo, hello little furbling",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 1, "specific": 0 }
+  },
+  "action_39_3_1_1": {
+    "readable": "hey, hey",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 1, "specific": 1 }
+  },
+  "action_39_3_1_2": {
+    "readable": "hey there, hey there howdy hi",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 1, "specific": 2 }
+  },
+  "action_39_3_1_3": {
+    "readable": "hey there, hey there wooo",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 1, "specific": 3 }
+  },
+  "action_39_3_1_4": {
+    "readable": "ooooh, hello",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 1, "specific": 4 }
+  },
+  "action_39_3_1_5": {
+    "readable": "ooooh, hi noo-lah",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 1, "specific": 5 }
+  },
+  "action_39_3_1_6": {
+    "readable": "heeey",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 1, "specific": 6 }
+  },
+  "action_39_3_2_0": {
+    "readable": "kah name ad-dah, what oo-nye name? (name specific?)",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 2, "specific": 0 }
+  },
+  "action_39_3_3_0": {
+    "readable": "hi, nice to meet ooo-nye",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 3, "specific": 0 }
+  },
+  "action_39_3_4_0": {
+    "readable": "let's name baby",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 4, "specific": 0 }
+  },
+  "action_39_3_4_1": {
+    "readable": "ooo let's name this little furb",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 4, "specific": 1 }
+  },
+  "action_39_3_5_0": {
+    "readable": "hmm, let's see.",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 5, "specific": 0 }
+  },
+  "action_39_3_5_1": {
+    "readable": "hmm, what have we have here",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 5, "specific": 1 }
+  },
+  "action_39_3_5_2": {
+    "readable": "ooh, very interesting",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 5, "specific": 2 }
+  },
+  "action_39_3_5_3": {
+    "readable": "hmmm",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 5, "specific": 3 }
+  },
+  "action_39_3_6_0": {
+    "readable": "hmmm, special, really special",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 6, "specific": 0 }
+  },
+  "action_39_3_6_1": {
+    "readable": "oooo, big reward, dido",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 6, "specific": 1 }
+  },
+  "action_39_3_6_2": {
+    "readable": "oooo, a rare one",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 6, "specific": 2 }
+  },
+  "action_39_3_6_3": {
+    "readable": "ooo, look oo-nye a special one",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 6, "specific": 3 }
+  },
+  "action_39_3_7_0": {
+    "readable": "ooo, so rare, so precious",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 7, "specific": 0 }
+  },
+  "action_39_3_7_1": {
+    "readable": "ooo, quality stuff",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 7, "specific": 1 }
+  },
+  "action_39_3_7_2": {
+    "readable": "ooo, super rare, super fancy",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 7, "specific": 2 }
+  },
+  "action_39_3_7_3": {
+    "readable": "ooh, extra super very special",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 7, "specific": 3 }
+  },
+  "action_39_3_8_0": {
+    "readable": "ooh, wow, just just wow",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 8, "specific": 0 }
+  },
+  "action_39_3_8_1": {
+    "readable": "legendary!",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 8, "specific": 1 }
+  },
+  "action_39_3_8_2": {
+    "readable": "the stuff of legends",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 8, "specific": 2 }
+  },
+  "action_39_3_9_0": {
+    "readable": "welcome, lttle dido",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 9, "specific": 0 }
+  },
+  "action_39_3_0_0": {
+    "readable": "lets go meet new friends",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 0, "specific": 0 }
+  },
+  "action_39_3_0_1": {
+    "readable": "ready to meet new friends",
+    "cmd": "action",
+    "params": { "input": 39, "index": 3, "subindex": 0, "specific": 1 }
+  },
+  "action_39_4_0_0": {
+    "readable": "ready, little dido",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 0, "specific": 0 }
+  },
+  "action_39_4_1_0": {
+    "readable": "on your mark, get set, swing",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 1, "specific": 0 }
+  },
+  "action_39_4_2_0": {
+    "readable": "get ready",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 2, "specific": 0 }
+  },
+  "action_39_4_3_0": {
+    "readable": "throw hard, noo-lah",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 3, "specific": 0 }
+  },
+  "action_39_4_4_0": {
+    "readable": "oo-nye got this",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 4, "specific": 0 }
+  },
+  "action_39_4_5_0": {
+    "readable": "aim carefully dido",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 5, "specific": 0 }
+  },
+  "action_39_4_6_0": {
+    "readable": "that was awesome",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 6, "specific": 0 }
+  },
+  "action_39_4_6_1": {
+    "readable": "nice",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 6, "specific": 1 }
+  },
+  "action_39_4_6_2": {
+    "readable": "smooth move",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 6, "specific": 2 }
+  },
+  "action_39_4_6_3": {
+    "readable": "ooh, nice shot, very nice",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 6, "specific": 3 }
+  },
+  "action_39_4_6_4": {
+    "readable": "ooh, nice shot, beee-yu-tiful",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 6, "specific": 4 }
+  },
+  "action_39_4_6_5": {
+    "readable": "eeetay fantastico",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 6, "specific": 5 }
+  },
+  "action_39_4_7_0": {
+    "readable": "whoopsies",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 7, "specific": 0 }
+  },
+  "action_39_4_7_1": {
+    "readable": "whaarg",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 7, "specific": 1 }
+  },
+  "action_39_4_7_2": {
+    "readable": "huh, huah",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 7, "specific": 2 }
+  },
+  "action_39_4_7_3": {
+    "readable": "woooargh",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 7, "specific": 3 }
+  },
+  "action_39_4_7_4": {
+    "readable": "cry",
+    "cmd": "action",
+    "params": { "input": 39, "index": 4, "subindex": 7, "specific": 4 }
+  },
+  "action_40_0_0_0": {
+    "readable": "Hey, Hey", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_40_0_0_1": {
+    "readable": "Hey there, hi there howdy, howdy", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_40_0_0_2": {
+    "readable": "Hey there, hey there hey woo", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_40_0_0_3": {
+    "readable": "Oooh, hello", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_40_0_0_4": {
+    "readable": "Oooh, hi noo-lah", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_40_0_0_5": {
+    "readable": "Heeey (sing-song)", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 0, "specific": 5 }
+  },
+  "action_40_0_1_0": {
+    "readable": "For Ka, oo-nye shouldn't have", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_40_0_1_1": {
+    "readable": "Thank you, thank you, thank you.", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_40_0_1_2": {
+    "readable": "yes, yes, Thank you, thank you, thank you yes", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 1, "specific": 2 }
+  },
+  "action_40_0_1_3": {
+    "readable": "ooh, ooh, all the yes", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 1, "specific": 3 }
+  },
+  "action_40_0_1_4": {
+    "readable": "stars in eyes, for kah? It's beautiful", 
+    "cmd": "action",
+    "params": { "input": 40, "index": 0, "subindex": 1, "specific": 4 }
+  },
+  "action_41_0_0_0": {
+    "readable": "Weee diiid it!",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_41_0_0_1": {
+    "readable": "ha, ha! Take that!",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_41_0_0_2": {
+    "readable": "hoho, we good, aww yeah",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_41_0_0_3": {
+    "readable": "high five! wait, kah only have 3",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_41_0_0_4": {
+    "readable": "team furby for the win!",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_41_0_1_0": {
+    "readable": "eeetay, good job!",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_41_0_1_1": {
+    "readable": "rainbows in eyes, eeetay, fantastico!",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_41_0_1_2": {
+    "readable": "Sweet mother of Furb!",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 2 }
+  },
+  "action_41_0_1_3": {
+    "readable": "Ooh, wow, gimme all the maymay",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 3 }
+  },
+  "action_41_0_1_4": {
+    "readable": "Oh, Kah love it",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 4 }
+  },
+  "action_41_0_1_5": {
+    "readable": "ooh, kay likey",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 5 }
+  },
+  "action_41_0_1_6": {
+    "readable": "Ooh ya, kah need this",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 6 }
+  },
+  "action_41_0_1_7": {
+    "readable": "yay! oh ah ooh ooh",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 7 }
+  },
+  "action_41_0_1_8": {
+    "readable": "Wow, we unstoppable",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 1, "specific": 8 }
+  },
+  "action_41_0_2_0": {
+    "readable": "oooh, secret",
+    "cmd": "action",
+    "params": { "input": 41, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_42_0_0_0": {
+    "readable": "oooh, so much to do",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 0, "specific": 0 }
+  },
+  "action_42_0_0_1": {
+    "readable": "oooh, such full, much busy",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 0, "specific": 1 }
+  },
+  "action_42_0_1_0": {
+    "readable": "oooh, new stuff, niiice",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 1, "specific": 0 }
+  },
+  "action_42_0_1_1": {
+    "readable": "new things, kah like things",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 1, "specific": 1 }
+  },
+  "action_42_0_1_2": {
+    "readable": "oooh, new stuffseses",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 1, "specific": 2 }
+  },
+  "action_42_0_1_3": {
+    "readable": "oooh, new things, noolah",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 1, "specific": 3 }
+  },
+  "action_42_0_1_4": {
+    "readable": "oooh, new mission",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 1, "specific": 4 }
+  },
+  "action_42_0_2_0": {
+    "readable": "hey, help a furb out",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 2, "specific": 0 }
+  },
+  "action_42_0_2_1": {
+    "readable": "furbling need help, kah to the rescue",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 2, "specific": 1 }
+  },
+  "action_42_0_2_2": {
+    "readable": "look, little dido need help",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 2, "specific": 2 }
+  },
+  "action_42_0_2_3": {
+    "readable": "lets give little guy a hand",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 2, "specific": 3 }
+  },
+  "action_42_0_2_4": {
+    "readable": "we help, us to the rescue",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 2, "specific": 4 }
+  },
+  "action_42_0_4_0": {
+    "readable": "ok, alright yeah, let's do this!",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 4, "specific": 0 }
+  },
+  "action_42_0_4_1": {
+    "readable": "ka, ready to go!",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 4, "specific": 1 }
+  },
+  "action_42_0_4_2": {
+    "readable": "let's get party started, uh",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 4, "specific": 2 }
+  },
+  "action_42_0_4_3": {
+    "readable": "ooh, can't wait, can't wait, can't wait",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 4, "specific": 3 }
+  },
+  "action_42_0_4_4": {
+    "readable": "cmon, let's get started",
+    "cmd": "action",
+    "params": { "input": 42, "index": 0,"subindex": 4, "specific": 4 }
+  },
+  "action_42_1_0_0": {
+    "readable": "Weee diiid it!",
+    "cmd": "action",
+    "params": { "input": 42, "index": 1,"subindex": 0, "specific": 0 }
+  },
+  "action_42_1_0_1": {
+    "readable": "ha, ha! Take that!",
+    "cmd": "action",
+    "params": { "input": 42, "index": 1,"subindex": 0, "specific": 1 }
+  },
+  "action_42_1_0_2": {
+    "readable": "hoho, we good, aww yeah",
+    "cmd": "action",
+    "params": { "input": 42, "index": 1,"subindex": 0, "specific": 2 }
+  },
+  "action_42_1_0_3": {
+    "readable": "high five! wait, kah only have 3",
+    "cmd": "action",
+    "params": { "input": 42, "index": 1,"subindex": 0, "specific": 3 }
+  },
+  "action_42_1_0_4": {
+    "readable": "team furby for the win!",
+    "cmd": "action",
+    "params": { "input": 42, "index": 1,"subindex": 0, "specific": 4 }
+  },
+  "action_43_0_0_0": {
+    "readable": "Hey, Hey",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_43_0_0_1": {
+    "readable": "Hey there, hi there, howdy, howdy hi ",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_43_0_0_2": {
+    "readable": "Hey, Hey there, whoo",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_43_0_0_3": {
+    "readable": "oooh, helloooo",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_43_0_0_4": {
+    "readable": "oooh, hi, noolah",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_43_0_0_5": {
+    "readable": "Heeey",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 5 }
+  },
+  "action_43_0_1_0": {
+    "readable": "Aaaaay, ada",
+    "params": { "input": 43, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_43_0_2_0": {
+    "readable": "booboobooo, what's wrong",
+    "params": { "input": 43, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_43_0_2_1": {
+    "readable": "ahhh, what's wrong",
+    "params": { "input": 43, "index": 0, "subindex": 2, "specific": 1 }
+  },
+  "action_43_0_2_2": {
+    "readable": "oo-nye ok?",
+    "params": { "input": 43, "index": 0, "subindex": 2, "specific": 2 }
+  },
+  "action_43_0_3_0": {
+    "readable": "why oo-nye scared?",
+    "params": { "input": 43, "index": 0, "subindex": 3, "specific": 0 }
+  },
+  "action_43_0_3_1": {
+    "readable": "what's so scary?",
+    "params": { "input": 43, "index": 0, "subindex": 3, "specific": 1 }
+  },
+  "action_43_0_4_0": {
+    "readable": "let kah help",
+    "params": { "input": 43, "index": 0, "subindex": 4, "specific": 0 }
+  },
+  "action_43_0_5_0": {
+    "readable": "hey! stop it",
+    "params": { "input": 43, "index": 0, "subindex": 5, "specific": 0 }
+  },
+  "action_43_0_5_1": {
+    "readable": "look, you!",
+    "params": { "input": 43, "index": 0, "subindex": 5, "specific": 1 }
+  },
+  "action_43_0_6_0": {
+    "readable": "what going on little dido?",
+    "params": { "input": 43, "index": 0, "subindex": 6, "specific": 0 }
+  },
+  "action_43_0_6_1": {
+    "readable": "so what oo-nye need?",
+    "params": { "input": 43, "index": 0, "subindex": 6, "specific": 1 }
+  },
+  "action_43_0_7_0": {
+    "readable": "oo-nye serious?",
+    "params": { "input": 43, "index": 0, "subindex": 7, "specific": 0 }
+  },
+  "action_43_0_7_1": {
+    "readable": "ahh, hold that thought <fart>",
+    "params": { "input": 43, "index": 0, "subindex": 7, "specific": 1 }
+  },
+  "action_43_0_7_2": {
+    "readable": "go oon",
+    "params": { "input": 43, "index": 0, "subindex": 7, "specific": 2 }
+  },
+  "action_43_0_7_3": {
+    "readable": "hmm",
+    "params": { "input": 43, "index": 0, "subindex": 7, "specific": 3 }
+  },
+  "action_43_0_7_4": {
+    "readable": "oh, you",
+    "params": { "input": 43, "index": 0, "subindex": 7, "specific": 4 }
+  },
+  "action_43_0_8_0": {
+    "readable": "honestly, yes",
+    "params": { "input": 43, "index": 0, "subindex": 8, "specific": 0 }
+  },
+  "action_43_0_8_1": {
+    "readable": "mmm, hmm, totally",
+    "params": { "input": 43, "index": 0, "subindex": 8, "specific": 1 }
+  },
+  "action_43_0_8_2": {
+    "readable": "eetay, a thousand times eetay",
+    "params": { "input": 43, "index": 0, "subindex": 8, "specific": 2 }
+  },
+  "action_43_0_9_0": {
+    "readable": "ok, alright yes, let's doo this",
+    "params": { "input": 43, "index": 0, "subindex": 9, "specific": 0 }
+  },
+  "action_43_0_9_1": {
+    "readable": "kah ready to go",
+    "params": { "input": 43, "index": 0, "subindex": 9, "specific": 1 }
+  },
+  "action_43_0_9_2": {
+    "readable": "Let's get party started, uh",
+    "params": { "input": 43, "index": 0, "subindex": 9, "specific": 2 }
+  },
+  "action_43_0_9_3": {
+    "readable": "can't wait, can't wait, can't wait!",
+    "params": { "input": 43, "index": 0, "subindex": 9, "specific": 3 }
+  },
+  "action_43_0_9_4": {
+    "readable": "C'mon Let's get started",
+    "params": { "input": 43, "index": 0, "subindex": 9, "specific": 4 }
+  },
+  "action_43_0_0_0": {
+    "readable": "bye bye for now",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_43_0_0_1": {
+    "readable": "peace out, noolah",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_43_0_0_2": {
+    "readable": "see ya later, furbinator",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_43_0_0_3": {
+    "readable": "ok, hasta la bye-bye",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_43_0_0_4": {
+    "readable": "later little dido",
+    "params": { "input": 43, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_44_0_0_0": {
+    "readable": "No forget the popcorn",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_44_0_0_1": {
+    "readable": "Gonna watch all the things",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_44_0_0_2": {
+    "readable": "Oh, dis gonna be goood.",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_44_0_0_3": {
+    "readable": "huh, whoah-whoah-whoah",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_44_0_0_4": {
+    "readable": "wooooah, this is happening!",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_44_0_0_5": {
+    "readable": "huh, wooooh",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 5 }
+  },
+  "action_44_0_0_6": {
+    "readable": "woohoo, ok, alright, woo-ahahh",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 6 }
+  },
+  "action_44_0_0_7": {
+    "readable": "ermagerd",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 0, "specific": 7 }
+  },
+  "action_44_0_1_0": {
+    "readable": "hmmm, let's see...",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_44_0_1_1": {
+    "readable": "Oooh, very interesting",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_44_0_1_2": {
+    "readable": "Hmmm, what have we have here",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 1, "specific": 2 }
+  },
+  "action_44_0_1_3": {
+    "readable": "Hmm.",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 1, "specific": 3 }
+  },
+  "action_44_0_2_0": {
+    "readable": "oooh, check out new video.",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_44_0_2_1": {
+    "readable": "oooh, new stuff, nice.",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 2, "specific": 1 }
+  },
+  "action_44_0_2_2": {
+    "readable": "new things! ka like things.",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 2, "specific": 2 }
+  },
+  "action_44_0_2_3": {
+    "readable": "oooh, new stuffseses",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 2, "specific": 3 }
+  },
+  "action_44_0_2_4": {
+    "readable": "oooh, new things noo-lah",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 2, "specific": 4 }
+  },
+  "action_44_0_2_5": {
+    "readable": "look, new video",
+    "cmd": "action",
+    "params": { "input": 44, "index": 0, "subindex": 2, "specific": 5 }
+  },
+  "action_44_1_0_0": {
+    "readable": "oooh, ahhh",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 0 }
+  },
+  "action_44_1_0_1": {
+    "readable": "kah all like Whaaat?!",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 1 }
+  },
+  "action_44_1_0_2": {
+    "readable": "whoah!",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 2 }
+  },
+  "action_44_1_0_3": {
+    "readable": "hmmmm",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 3 }
+  },
+  "action_44_1_0_4": {
+    "readable": "oooh!",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 4 }
+  },
+  "action_44_1_0_5": {
+    "readable": "hey!",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 5 }
+  },
+  "action_44_1_0_6": {
+    "readable": "hooo, oh ka furb",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 6 }
+  },
+  "action_44_1_0_7": {
+    "readable": "oooh, ah, oooh, oooh, oooh",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 0, "specific": 7 }
+  },
+  "action_44_1_1_0": {
+    "readable": "wooohoohoo, showtime",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 1, "specific": 0 }
+  },
+  "action_44_1_1_1": {
+    "readable": "oooh, dis gonna be good",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 1, "specific": 1 }
+  },
+  "action_44_1_1_2": {
+    "readable": "huh, whoah, whoah, whoah",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 1, "specific": 2 }
+  },
+  "action_44_1_1_3": {
+    "readable": "woooah, this is happening",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 1, "specific": 3 }
+  },
+  "action_44_1_1_4": {
+    "readable": "huh! oooh",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 1, "specific": 4 }
+  },
+  "action_44_1_1_5": {
+    "readable": "woohoo, ok, alright, woo-ahahh",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 1, "specific": 5 }
+  },
+  "action_44_1_1_6": {
+    "readable": "ermagerd",
+    "cmd": "action",
+    "params": { "input": 44, "index": 1, "subindex": 1, "specific": 6 }
+  },
+  "action_44_3_0_0": {
+    "readable": "der, er, err",
+    "cmd": "action",
+    "params": { "input": 44, "index": 3, "subindex": 0, "specific": 0 }
+  },
+  "action_44_3_0_1": {
+    "readable": "mm,hmmm, errr",
+    "cmd": "action",
+    "params": { "input": 44, "index": 3, "subindex": 0, "specific": 1 }
+  },
+  "action_44_3_0_2": {
+    "readable": "cry",
+    "cmd": "action",
+    "params": { "input": 44, "index": 3, "subindex": 0, "specific": 2 }
+  },
+  "action_44_4_0_0": {
+    "readable": "hey, ka watching that",
+    "cmd": "action",
+    "params": { "input": 44, "index": 4, "subindex": 0, "specific": 0 }
+  },
+  "action_44_4_0_1": {
+    "readable": "but, nooooooo",
+    "cmd": "action",
+    "params": { "input": 44, "index": 4, "subindex": 0, "specific": 1 }
+  },
+  "action_44_4_0_2": {
+    "readable": "but, bu-bu-but, ohhhh",
+    "cmd": "action",
+    "params": { "input": 44, "index": 4, "subindex": 0, "specific": 2 }
+  },
+  "action_44_4_0_3": {
+    "readable": "oooh, ahhh-ng",
+    "cmd": "action",
+    "params": { "input": 44, "index": 4, "subindex": 0, "specific": 3 }
+  },
+  "action_44_4_0_4": {
+    "readable": "dude, really?",
+    "cmd": "action",
+    "params": { "input": 44, "index": 4, "subindex": 0, "specific": 4 }
+  },
+  "action_44_4_0_5": {
+    "readable": "<whine>",
+    "cmd": "action",
+    "params": { "input": 44, "index": 4, "subindex": 0, "specific": 5 }
+  },
+  "action_44_5_0_0": {
+    "readable": "ka love it (hearts in eyes)",
+    "cmd": "action",
+    "params": { "input": 44, "index": 5, "subindex": 0, "specific": 0 }
+  },
+  "action_44_5_0_1": {
+    "readable": "Like it? No, ka love it! (heart)",
+    "cmd": "action",
+    "params": { "input": 44, "index": 5, "subindex": 0, "specific": 1 }
+  },
+  "action_44_5_0_2": {
+    "readable": "oooh, kah likey",
+    "cmd": "action",
+    "params": { "input": 44, "index": 5, "subindex": 0, "specific": 2 }
+  },
+  "action_44_5_0_2": {
+    "readable": "oooh, kah likey",
+    "cmd": "action",
+    "params": { "input": 44, "index": 5, "subindex": 0, "specific": 2 }
+  },
+  "action_45_0_0_0": {
+    "readable": "ohh, the cuteness!",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_45_0_0_1": {
+    "readable": "ohh, didj didj awwww....!",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_45_0_0_2": {
+    "readable": "ohh, pet pet, hug hug, squeeze, squeeze",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_45_0_0_3": {
+    "readable": "hehehe, oonai soo cuute",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_45_0_0_4": {
+    "readable": "dooohhhh.",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_45_0_0_5": {
+    "readable": "mmm, mmm, hehe. yup, yup, yup",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 0, "specific": 5 }
+  },
+  "action_45_0_0_6": {
+    "readable": "ohh, hoo hoo",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 0, "specific": 6 }
+  },
+  "action_45_0_1_0": {
+    "readable": "whistle",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_45_0_1_1": {
+    "readable": "sigh",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_45_0_1_2": {
+    "readable": "hmmm, let's see...",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 1, "specific": 2 }
+  },
+  "action_45_0_1_3": {
+    "readable": "Hmmm, what have we have here",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 1, "specific": 3 }
+  },
+  "action_45_0_1_4": {
+    "readable": "Oooh, very interesting",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 1, "specific": 4 }
+  },
+  "action_45_0_1_5": {
+    "readable": "Hmm.",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 1, "specific": 5 }
+  },
+  "action_45_0_2_0": {
+    "readable": "various laughs (5&7 fart)",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_45_0_4_0": {
+    "readable": "Ohh, look!",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 4, "specific": 0 }
+  },
+  "action_45_0_4_1": {
+    "readable": "ooh, check it out noolah",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 4, "specific": 1 }
+  },
+  "action_45_0_4_2": {
+    "readable": "Would you look at that",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 4, "specific": 2 }
+  },
+  "action_45_0_4_3": {
+    "readable": "Looky looky look look",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 4, "specific": 3 }
+  },
+  "action_45_0_4_4": {
+    "readable": "alright, ok, uh huh, not bad",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 4, "specific": 4 }
+  },
+  "action_45_0_4_5": {
+    "readable": "show kah what ya got",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 4, "specific": 5 }
+  },
+  "action_45_0_6_0": {
+    "readable": "Hey Hey, it's ka buddy",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 6, "specific": 0 }
+  },
+  "action_45_0_6_1": {
+    "readable": "ohh, noolah noolah, that ka friend",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 6, "specific": 1 }
+  },
+  "action_45_0_7_0": {
+    "readable": "Heey, help a furb out",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 7, "specific": 0 }
+  },
+  "action_45_0_7_1": {
+    "readable": "Furbling need help. Kah to the rescue!",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 7, "specific": 1 }
+  },
+  "action_45_0_7_2": {
+    "readable": "Look! little dido need help",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 7, "specific": 2 }
+  },
+  "action_45_0_7_3": {
+    "readable": "Let's give little guy hand.",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 7, "specific": 3 }
+  },
+  "action_45_0_7_4": {
+    "readable": "We Help. Us to the rescue",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 7, "specific": 4 }
+  },
+  "action_45_0_9_0": {
+    "readable": "boo, boo boo what's wrong?",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 9, "specific": 0 }
+  },
+  "action_45_0_9_1": {
+    "readable": "awww what's wrong?",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 9, "specific": 1 }
+  },
+  "action_45_0_9_2": {
+    "readable": "oonai ok?",
+    "cmd": "action",
+    "params": { "input": 45, "index": 0, "subindex": 9, "specific": 2 }
+  },
+  "action_46_0_0_0": {
+    "readable": "Can't resist... much touch...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 0, "specific": 0 } 
+  },
+  "action_46_0_0_1": {
+    "readable": "poke, pooke it, poke it",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 0, "specific": 1 } 
+  },
+  "action_46_0_0_2": {
+    "readable": "ohh, what that? Touch it, Go on...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 0, "specific": 2 } 
+  },
+  "action_46_0_0_3": {
+    "readable": "ohh, pokey, pokey...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 0, "specific": 3 } 
+  },
+  "action_46_0_1_0": {
+    "readable": "wrestle, wrestle",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 1, "specific": 0 } 
+  },
+  "action_46_0_1_1": {
+    "readable": "can't resist, must touch!",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 1, "specific": 1 } 
+  },
+  "action_46_0_1_2": {
+    "readable": "poke, pooke it, poke it",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 1, "specific": 2 } 
+  },
+  "action_46_0_1_3": {
+    "readable": "ohh, what that? Touch it, Go on...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 1, "specific": 3 } 
+  },
+  "action_46_0_1_4": {
+    "readable": "ohh, pokey, pokey...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 1, "specific": 4 } 
+  },
+  "action_46_0_2_0": {
+    "readable": "can't resist, must touch!",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 2, "specific": 0 } 
+  },
+  "action_46_0_2_1": {
+    "readable": "poke, pooke it, poke it",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 2, "specific": 1 } 
+  },
+  "action_46_0_2_2": {
+    "readable": "ohh, what that? Touch it, Go on...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 2, "specific": 2 } 
+  },
+  "action_46_0_2_3": {
+    "readable": "ohh, pokey, pokey...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 2, "specific": 3 } 
+  },
+  "action_46_0_5_0": {
+    "readable": "ohh, the cuteness!",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 0 } 
+  },
+  "action_46_0_5_1": {
+    "readable": "ohh, didj didj awwww....!",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 1 } 
+  },
+  "action_46_0_5_2": {
+    "readable": "ohh, pet pet, hug hug, squeeze, squeeze",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 2 } 
+  },
+  "action_46_0_5_3": {
+    "readable": "hehehe, oonai soo cuute",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 3 } 
+  },
+  "action_46_0_5_4": {
+    "readable": "dooohhhh.",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 4 } 
+  },
+  "action_46_0_5_5": {
+    "readable": "can't resist, must touch!",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 5 } 
+  },
+  "action_46_0_5_6": {
+    "readable": "poke, pooke it, poke it",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 6 } 
+  },
+  "action_46_0_5_7": {
+    "readable": "ohh, what that? Touch it, Go on...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 7 } 
+  },
+  "action_46_0_5_8": {
+    "readable": "ohh, pokey, pokey...",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 5, "specific": 8 } 
+  },
+  "action_46_0_7_0": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 46, "index": 0, "subindex": 7, "specific": 0 } 
+  },
+  "action_47_0_0_0": {
+    "readable": "Hmmm, let's see...",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 0, "action": 0 }
+  },
+  "action_47_0_0_1": {
+    "readable": "Hmmm, what have we have here",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 0, "action": 1 }
+  },
+  "action_47_0_0_2": {
+    "readable": "Oooh, very interesting",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 0, "action": 2 }
+  },
+  "action_47_0_0_3": {
+    "readable": "Hmm.",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 0, "action": 3 }
+  },
+  "action_47_0_2_0": {
+    "readable": "ka love it (hearts in eyes)",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 2, "action": 0 }
+  },
+  "action_47_0_2_1": {
+    "readable": "Like it? No, ka love it! (hearts)",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 2, "action": 1 }
+  },
+  "action_47_0_2_2": {
+    "readable": "oooh, kah likey",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 2, "action": 2 }
+  },
+  "action_47_0_3_0": {
+    "readable": "this guy! <giggle> oh, this guy",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 3, "action": 0 }
+  },
+  "action_47_0_4_0": {
+    "readable": "eh, locked. What to do?",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 4, "action": 0 }
+  },
+  "action_47_0_5_0": {
+    "readable": "hmmm, we need more something...",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 5, "action": 0 }
+  },
+  "action_47_0_6_0": {
+    "readable": "oh! let kah in!",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 6, "action": 0 }
+  },
+  "action_47_0_6_1": {
+    "readable": "but, Nooooooo",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 6, "action": 1 }
+  },
+  "action_47_0_6_2": {
+    "readable": "but, but, but, b-b-but, oh",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 6, "action": 2 }
+  },
+  "action_47_0_6_3": {
+    "readable": "waaah (frustrated?)",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 6, "action": 3 }
+  },
+  "action_47_0_6_4": {
+    "readable": "dude, really?",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 6, "action": 4 }
+  },
+  "action_47_0_6_5": {
+    "readable": "mi, mih meee (whine)",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 6, "action": 5 }
+  },
+  "action_47_0_7_0": {
+    "readable": "BFF. Best furbling friend. <giggle>",
+    "cmd": "action",
+    "params": { "input": 47, "index": 0, "subindex": 7, "action": 0 }
+  },
+  "action_48_0_0_0": {
+    "readable": "oooh, for ka? unai shouldn't have.",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_48_0_0_1": {
+    "readable": "Thank you, thank you, thank you.",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_48_0_0_2": {
+    "readable": "yes, yes, Thank you, thank you, thank you yes",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_48_0_0_3": {
+    "readable": "ooh, ooh, all the yes",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_48_0_0_4": {
+    "readable": "for kah? It's beautiful (stars in eyes)",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_48_0_1_0": {
+    "readable":  "oooh, what inside? ",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_48_0_1_1": {
+    "readable":  "open sesame",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_48_0_1_2": {
+    "readable":  "what inside? kah need to know, need to know",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 1, "specific": 2 }
+  },
+  "action_48_0_2_0": {
+    "readable": "ooh, so rare, so precious, awww",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_48_0_2_1": {
+    "readable": "ooh, quality stuffs",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 2, "specific": 1 }
+  },
+  "action_48_0_2_2": {
+    "readable": "ooh, super rare, super fancy",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 2, "specific": 2 }
+  },
+  "action_48_0_2_3": {
+    "readable": "ooh, extra super very special",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 2, "specific": 3 }
+  },
+  "action_48_0_3_0": {
+    "readable": "ooh, wow, just wow",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 3, "specific": 0 }
+  },
+  "action_48_0_3_1": {
+    "readable": "Legendary!",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 3, "specific": 1 }
+  },
+  "action_48_0_3_2": {
+    "readable": "dust off our religions! (?)",
+    "cmd": "action",
+    "params": { "input": 48, "index": 0, "subindex": 3, "specific": 2 }
+  },
+
+
+  "action_49_0_0_0": {
+    "readable": "mmm, nice and snugs here",
+    "cmd": "action",
+    "params": { "input": 49, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_49_0_1_0": {
+    "readable": "ok, now hatch! Come on",
+    "cmd": "action",
+    "params": { "input": 49, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_49_0_2_0": {
+    "readable": "oy, too much stuff!",
+    "cmd": "action",
+    "params": { "input": 49, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_49_0_3_0": {
+    "readable": "need more space",
+    "cmd": "action",
+    "params": { "input": 49, "index": 0, "subindex": 3, "specific": 0 }
+  },
+
+
+
+  "action_50_0_0_0": {
+    "readable": "eeetay, good job!",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_50_0_0_1": {
+    "readable": "eeetay, fantastico! (rainbows in eyes)",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_50_0_0_2": {
+    "readable": "Sweet mother of Furb!",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_50_0_0_3": {
+    "readable": "Ooh, wow, gimme all the maymay",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_50_0_0_4": {
+    "readable": "Oh, Kah love it",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_50_0_0_5": {
+    "readable": "ooh, kay likey",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 5 }
+  },
+  "action_50_0_0_6": {
+    "readable": "Ooh ya, kah need this",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 6 }
+  },
+  "action_50_0_0_7": {
+    "readable": "yay! oh ah ooh ooh",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 7 }
+  },
+  "action_50_0_0_8": {
+    "readable": "Wow, we unstoppable",
+    "cmd": "action",
+    "params": { "input": 50, "index": 0, "subindex": 0, "specific": 8 }
+  },
+
+
+  "action_51_0_0_0": {
+    "readable": "yay! more room for squeek, giggle",
+    "cmd": "action",
+    "params": { "input": 51, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_51_0_0_1": {
+    "readable": "We gonna need  a bigger furb!",
+    "cmd": "action",
+    "params": { "input": 51, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_52_0_2_0": {
+    "readable": "oooh, for ka? Unai shouldn't have",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_52_0_2_1": {
+    "readable": "Thank you, thank you, thank you.",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 2, "specific": 1 }
+  },
+  "action_52_0_2_2": {
+    "readable": "yes, yes, Thank you, thank you, thank you yes",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 2, "specific": 2 }
+  },
+  "action_52_0_2_3": {
+    "readable": "ooh, ooh, all the yes",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 2, "specific": 3 }
+  },
+  "action_52_0_2_4": {
+    "readable": "stars in eyes, for kah? It's beautiful",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 2, "specific": 4 }
+  },
+  "action_52_0_3_0": {
+    "readable": "oooh, what inside? ",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 3, "specific": 0 }
+  },
+  "action_52_0_3_1": {
+    "readable": "open sesame",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 3, "specific": 1 }
+  },
+  "action_52_0_3_2": {
+    "readable": "what inside? kah need to know, need to know!",
+    "cmd": "action",
+    "params": { "input": 52, "index": 0, "subindex": 3, "specific": 2 }
+  },
+  "action_53_0_0_0": {
+    "readable": "ooh, ahhh",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_53_0_0_1": {
+    "readable": "kah all like Whaaat?!",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_53_0_0_2": {
+    "readable": "Whaoh",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_53_0_0_3": {
+    "readable": "mmmm",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_53_0_0_4": {
+    "readable": "ooh",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 4 }
+  },
+  "action_53_0_0_5": {
+    "readable": "heyyyy",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 5 }
+  },
+  "action_53_0_0_6": {
+    "readable": "hmm, oh kah furb",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 6 }
+  },
+  "action_53_0_0_7": {
+    "readable": "oooh hah oooh ooooh (sing?)",
+    "cmd": "action",
+    "params": { "input": 53, "index": 0, "subindex": 0, "specific": 7 }
+  },
+  "action_54_0_0_0": {
+    "readable": "Kah accept quest on behalf of furblings",
+    "cmd": "action",
+    "params": { "input": 54, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_54_0_0_1": {
+    "readable": "Challenge accepted",
+    "cmd": "action",
+    "params": { "input": 54, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_54_0_1_0": {
+    "readable": "Let Quest Begin",
+    "cmd": "action",
+    "params": { "input": 54, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_54_0_2_0": {
+    "readable": "Who best a quest? We are!",
+    "cmd": "action",
+    "params": { "input": 54, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_54_0_2_1": {
+    "readable": "yay yay yay we did it. Go us!",
+    "cmd": "action",
+    "params": { "input": 54, "index": 0, "subindex": 2, "specific": 1 }
+  },
+  "action_54_0_2_2": {
+    "readable": "Best Quest Evar!",
+    "cmd": "action",
+    "params": { "input": 54, "index": 0, "subindex": 2, "specific": 2 }
+  },
+  "action_55_0_0_0": {
+    "readable": "Ok, where kah leave off?",
+    "cmd": "action",
+    "params": { "input": 55, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_55_0_0_1": {
+    "readable": "Yes, love this game. Love it",
+    "cmd": "action",
+    "params": { "input": 55, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_55_0_1_0": {
+    "readable": "Oh, dis gonna be good",
+    "cmd": "action",
+    "params": { "input": 55, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_55_1_0_0": {
+    "readable": "Hollywood lights in eyes, excited cry",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 0 }
+  },
+  "action_55_1_0_1": {
+    "readable": "Success! Kah has it!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 1 }
+  },
+  "action_55_1_0_2": {
+    "readable": "Yes! the day is ours!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 2 }
+  },
+  "action_55_1_0_3": {
+    "readable": "oooh, oo-nye magic",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 3 }
+  },
+  "action_55_1_0_4": {
+    "readable": "dee-doh, yes, very yes.",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 4 }
+  },
+  "action_55_1_0_5": {
+    "readable": "woo! (giggle)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 5 }
+  },
+  "action_55_1_0_6": {
+    "readable": "eeee-eeee-eeee (sing)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 6 }
+  },
+  "action_55_1_0_7": {
+    "readable": "ooh-ah-ooh-ohh (sing)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 0, "specific": 7 }
+  },
+  "action_55_1_1_0": {
+    "readable": "Hey, all right!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 1, "specific": 0 }
+  },
+  "action_55_1_1_1": {
+    "readable": "ok, not bad!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 1, "specific": 1 }
+  },
+  "action_55_1_2_0": {
+    "readable": "oh, can almost taste the gold",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 2, "specific": 0 }
+  },
+  "action_55_1_2_1": {
+    "readable": "wooh, almost perfect!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 2, "specific": 1 }
+  },
+  "action_55_1_3_0": {
+    "readable": "High score! Booyah! (Trophy in eyes)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 3, "specific": 0 }
+  },
+  "action_55_1_4_0": {
+    "readable": "Not brag, but, WE THE BEST! (Trophy in eyes)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 4, "specific": 0 }
+  },
+  "action_55_1_4_1": {
+    "readable": "We rule! They drool! (drool) oops",
+    "cmd": "action",
+    "params": { "input": 55, "index": 1, "subindex": 4, "specific": 1 }
+  },
+  "action_55_2_0_0": {
+    "readable": "OOh, dat way, dido!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 0, "specific": 0 }
+  },
+  "action_55_2_0_1": {
+    "readable": "go that way",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 0, "specific": 1 }
+  },
+  "action_55_2_1_0": {
+    "readable": "wrong way",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 1, "specific": 0 }
+  },
+  "action_55_2_1_1": {
+    "readable": "(disapointed) aaaah",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 1, "specific": 1 }
+  },
+  "action_55_2_2_0": {
+    "readable": "Dat was Awwwwesome!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 2, "specific": 0 }
+  },
+  "action_55_2_2_1": {
+    "readable": "Nice!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 2, "specific": 1 }
+  },
+  "action_55_2_2_2": {
+    "readable": "Smooth move!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 2, "specific": 2 }
+  },
+  "action_55_2_2_3": {
+    "readable": "eetay! fantastico! (rainbows in eyes)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 2, "specific": 3 }
+  },
+  "action_55_2_3_0": {
+    "readable": "(enthusiastic) Yes!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 3, "specific": 0 }
+  },
+  "action_55_2_3_1": {
+    "readable": "Yaaas!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 3, "specific": 1 }
+  },
+  "action_55_2_3_2": {
+    "readable": "Indeed!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 3, "specific": 2 }
+  },
+  "action_55_2_4_0": {
+    "readable": "(enthusiastic) Nope!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 0 }
+  },
+  "action_55_2_4_1": {
+    "readable": "(firm) Nope, na-baoo uh-uh nope no!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 1 }
+  },
+  "action_55_2_5_0": {
+    "readable": "Okay!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 0 }
+  },
+  "action_55_2_5_1": {
+    "readable": "alright!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 1 }
+  },
+  "action_55_2_6_0": {
+    "readable": "Ka help oo-nye (i will help you)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 6, "specific": 0 }
+  },
+  "action_55_2_6_1": {
+    "readable": "let kah help",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 6, "specific": 1 }
+  },
+  "action_55_2_7_0": {
+    "readable": "Great!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 0 }
+  },
+  "action_55_2_7_1": {
+    "readable": "oooo-oooh! (holywood lights in eyes)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 1 }
+  },
+  "action_55_2_7_2": {
+    "readable": "Success! kah has it!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 2 }
+  },
+  "action_55_2_7_3": {
+    "readable": "Yes! the day is ours!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 3 }
+  },
+  "action_55_2_7_4": {
+    "readable": "oooh. Ooh-bye magic!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 4 }
+  },
+  "action_55_2_7_5": {
+    "readable": "dee-doh, yes, very yes.",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 5 }
+  },
+  "action_55_2_7_6": {
+    "readable": "whoo! hoo-hoo-hah-hah",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 6 }
+  },
+  "action_55_2_7_7": {
+    "readable": "excited squee",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 7 }
+  },
+  "action_55_2_7_8": {
+    "readable": "ooh, ah, ooh, ohh ah",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 8 }
+  },
+  "action_55_2_8_0": {
+    "readable": "Perfect",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 8, "specific": 0 }
+  },
+  "action_55_2_8_1": {
+    "readable": "ooh, that's Purrrfect",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 8, "specific": 1 }
+  },
+  "action_55_2_9_0": {
+    "readable": "Dat was Awwwwesome! (same as 55,2,2,0)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 9, "specific": 0 }
+  },
+  "action_55_2_9_1": {
+    "readable": "Nice! (same as 55,2,2,1)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 9, "specific": 1 }
+  },
+  "action_55_2_0_0": {
+    "readable": "Uh oh, Running out of time",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 0, "specific": 0 }
+  },
+  "action_55_2_0_1": {
+    "readable": "Almost out of time",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 0, "specific": 1 }
+  },
+  "action_55_2_1_0": {
+    "readable": "beep, time up!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 1, "specific": 0 }
+  },
+  "action_55_2_1_1": {
+    "readable": "wah wah wah, no more time",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 1, "specific": 1 }
+  },
+  "action_55_2_2_0": {
+    "readable": "Last Turn",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 2, "specific": 0 }
+  },
+  "action_55_2_2_1": {
+    "readable": "final go",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 2, "specific": 1 }
+  },
+  "action_55_2_3_0": {
+    "readable": "Whoopsies",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 3, "specific": 0 }
+  },
+  "action_55_2_3_1": {
+    "readable": "gwargg",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 3, "specific": 1 }
+  },
+  "action_55_2_3_2": {
+    "readable": "whuh, huh",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 3, "specific": 2 }
+  },
+  "action_55_2_4_0": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 0 }
+  },
+  "action_55_2_4_1": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 1 }
+  },
+  "action_55_2_4_2": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 2 }
+  },
+  "action_55_2_4_3": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 3 }
+  },
+  "action_55_2_4_4": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 4 }
+  },
+  "action_55_2_4_5": {
+    "readable": "giggle followed by fart oops",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 5 }
+  },
+  "action_55_2_4_6": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 6 }
+  },
+  "action_55_2_4_7": {
+    "readable": "giggle followed by fart oops",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 7 }
+  },
+  "action_55_2_4_8": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 8 }
+  },
+  "action_55_2_4_9": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 9 }
+  },
+  "action_55_2_4_10": {
+    "readable": "giggle",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 10 }
+  },
+  "action_55_2_5_0": {
+    "readable": "We did it! (stars in eyes)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 0 }
+  },
+  "action_55_2_5_1": {
+    "readable": "Ha Ha, take that!!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 1 }
+  },
+  "action_55_2_5_2": {
+    "readable": "Ho Ho we good, we good, aw yeah!",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 2 }
+  },
+  "action_55_2_5_3": {
+    "readable": "High Five! wait, kah only have 3",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 3 }
+  },
+  "action_55_2_5_4": {
+    "readable": "Team Furby for the win",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 4 }
+  },
+  "action_55_2_6_0": {
+    "readable": "hey, over there",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 6, "specific": 0 }
+  },
+  "action_55_2_7_0": {
+    "readable": "Up (ear point up)",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 7, "specific": 0 }
+  },
+  "action_55_2_8_0": {
+    "readable": "down",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 8, "specific": 0 }
+  },
+  "action_55_2_9_0": {
+    "readable": "left",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 9, "specific": 0 }
+  },
+  "action_55_2_0_0": {
+    "readable": "right",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 0, "specific": 0 }
+  },
+  "action_55_2_1_0": {
+    "readable": "go back",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 1, "specific": 0 }
+  },
+  "action_55_2_2_0": {
+    "readable": "forwards",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 2, "specific": 0 }
+  },
+  "action_55_2_3_0": {
+    "readable": "faster",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 3, "specific": 0 }
+  },
+  "action_55_2_4_0": {
+    "readable": "slower",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 4, "specific": 0 }
+  },
+  "action_55_2_5_0": {
+    "readable": "again, again",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 5, "specific": 0 }
+  },
+  "action_55_2_6_0": {
+    "readable": "too much",
+    "cmd": "action",
+    "params": { "input": 55, "index": 2, "subindex": 6, "specific": 0 }
+  },
+  "action_56_0_0_0": {
+    "readable": "aww, dirty fur, need shower",
+    "cmd": "action",
+    "params": { "input": 56, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_56_0_0_1": {
+    "readable": "aww, kah feel gross. Shower please",
+    "cmd": "action",
+    "params": { "input": 56, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_56_0_1_0": {
+    "readable": "ooooh, oooh, poop alert",
+    "cmd": "action",
+    "params": { "input": 56, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_56_0_1_1": {
+    "readable": "uh oh, need toilet, hurry",
+    "cmd": "action",
+    "params": { "input": 56, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_56_0_2_0": {
+    "readable": "ahem, tah hungry (stomach growl, donut in eye)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 0, "subindex": 2, "specific": 0 }
+  },
+  "action_56_0_2_1": {
+    "readable": "time to eat. heh, always time to eat.",
+    "cmd": "action",
+    "params": { "input": 56, "index": 0, "subindex": 2, "specific": 1 }
+  },
+  "action_56_1_0_0": {
+    "readable": "gargle sing",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 0, "specific": 0 }
+  },
+  "action_56_1_1_0": {
+    "readable": "dooh doo dooh (sing)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 1, "specific": 0 }
+  },
+  "action_56_1_1_1": {
+    "readable": "dooh doo dooh (sing)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 1, "specific": 1 }
+  },
+  "action_56_1_1_2": {
+    "readable": "whistle",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 1, "specific": 2 }
+  },
+  "action_56_1_2_0": {
+    "readable": "ooh ooh ouch, too hot",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 2, "specific": 0 }
+  },
+  "action_56_1_2_0": {
+    "readable": "ooh hot hot hot, too hot",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 2, "specific": 0 }
+  },
+  "action_56_1_3_0": {
+    "readable": "too cold (shivers)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 3, "specific": 0 }
+  },
+  "action_56_1_3_1": {
+    "readable": "coldings (shivers)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 3, "specific": 1 }
+  },
+  "action_56_1_4_0": {
+    "readable": "Aaaaah, finally (satisfied)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 4, "specific": 0 }
+  },
+  "action_56_1_4_1": {
+    "readable": "oooh yeah, whooh (satisfied)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 4, "specific": 1 }
+  },
+  "action_56_1_4_2": {
+    "readable": "woooh kah feel good, whoo",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 4, "specific": 2 }
+  },
+  "action_56_1_4_3": {
+    "readable": "aaah (fart)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 1, "subindex": 4, "specific": 3 }
+  },
+  "action_56_2_0_0": {
+    "readable": "Meeeh (eyes squeezed, grunt)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 0, "specific": 0 }
+  },
+  "action_56_2_0_1": {
+    "readable": "ooh, the struggle is real",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 0, "specific": 1 }
+  },
+  "action_56_2_1_0": {
+    "readable": "Just a minute (grunt)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 1, "specific": 0 }
+  },
+  "action_56_2_1_1": {
+    "readable": "uh oh, something stuck",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 1, "specific": 1 }
+  },
+  "action_56_2_2_0": {
+    "readable": "Oooh, yeah, that happened",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 2, "specific": 0 }
+  },
+  "action_56_2_2_1": {
+    "readable": "aaah, finally",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 2, "specific": 1 }
+  },
+  "action_56_2_2_2": {
+    "readable": "Oooh-oooh, yeah, whew",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 2, "specific": 2 }
+  },
+  "action_56_2_2_3": {
+    "readable": "whooohooo, kah feel good, whoo",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 2, "specific": 3 }
+  },
+  "action_56_2_2_4": {
+    "readable": "aaaah (fart)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 2, "specific": 4 }
+  },
+  "action_56_2_3_0": {
+    "readable": "Oooh, smell ya later",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 3, "specific": 0 }
+  },
+  "action_56_2_3_1": {
+    "readable": "Oooh, terd-a-loo, hehe",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 3, "specific": 1 }
+  },
+  "action_56_2_3_2": {
+    "readable": "peace out, noo-lah",
+    "cmd": "action",
+    "params": { "input": 56, "index": 2, "subindex": 3, "specific": 2 }
+  },
+  "action_56_3_0_0": {
+    "readable": "eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 0, "specific": 0 }
+  },
+  "action_56_3_0_1": {
+    "readable": "eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 0, "specific": 1 }
+  },
+  "action_56_3_0_2": {
+    "readable": "eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 0, "specific": 2 }
+  },
+  "action_56_3_0_3": {
+    "readable": "eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 0, "specific": 3 }
+  },
+  "action_56_3_0_4": {
+    "readable": "eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 0, "specific": 4 }
+  },
+  "action_56_3_0_5": {
+    "readable": "eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 0, "specific": 5 }
+  },
+  "action_56_3_1_0": {
+    "readable": "happy eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 1, "specific": 0 }
+  },
+  "action_56_3_1_1": {
+    "readable": "munch sounds yummy in kah tummy",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 1, "specific": 1 }
+  },
+  "action_56_3_2_0": {
+    "readable": "enthusiastic eat, munch sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 2, "specific": 0 }
+  },
+  "action_56_3_2_1": {
+    "readable": "munch sounds, furbalicious",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 2, "specific": 1 }
+  },
+  "action_56_3_3_0": {
+    "readable": "Oooh, ka favorite!",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 3, "specific": 0 }
+  },
+  "action_56_3_3_1": {
+    "readable": "delightful yummy deliciuos!",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 3, "specific": 1 }
+  },
+  "action_56_3_4_0": {
+    "readable": "S'okay... Meh",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 4, "specific": 0 }
+  },
+  "action_56_3_4_0": {
+    "readable": "mm, needs more ... meatball",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 4, "specific": 0 }
+  },
+  "action_56_3_5_0": {
+    "readable": "unsatisfied food sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 5, "specific": 0 }
+  },
+  "action_56_3_5_1": {
+    "readable": "unsatisfied food sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 5, "specific": 1 }
+  },
+  "action_56_3_6_0": {
+    "readable": "uggh, nassty",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 6, "specific": 0 }
+  },
+  "action_56_3_6_1": {
+    "readable": "uggh, sooo gross",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 6, "specific": 1 }
+  },
+  "action_56_3_7_0": {
+    "readable": "mmm, mmm, oh giggle mmmm (enthusiastic)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 7, "specific": 0 }
+  },
+  "action_56_3_8_0": {
+    "readable": "mmm, mmm",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 8, "specific": 0 }
+  },
+  "action_56_3_9_0": {
+    "readable": "hot, hot, hot! too hot",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 9, "specific": 0 }
+  },
+  "action_56_3_0_0": {
+    "readable": "too cold (shiver)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 0, "specific": 0 }
+  },
+  "action_56_3_1_0": {
+    "readable": "oooh, ahhhhh (panic)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 1, "specific": 0 }
+  },
+  "action_56_3_2_0": {
+    "readable": "oooh, ahhhhh (satisfied)",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 2, "specific": 0 }
+  },
+  "action_56_3_3_0": {
+    "readable": "slurp, then excited",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 3, "specific": 0 }
+  },
+  "action_56_3_4_0": {
+    "readable": "spit sound",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 4, "specific": 0 }
+  },
+  "action_56_3_5_0": {
+    "readable": "puke sounds",
+    "cmd": "action",
+    "params": { "input": 56, "index": 3, "subindex": 5, "specific": 0 }
+  },
+  "action_57_0_0_0": {
+    "readable": "eetah let's share",
+    "cmd": "action",
+    "params": { "input": 57, "index": 0, "subindex": 0, "specific": 0 }
+  },
+  "action_57_0_0_1": {
+    "readable": "yes, yes, share these",
+    "cmd": "action",
+    "params": { "input": 57, "index": 0, "subindex": 0, "specific": 1 }
+  },
+  "action_57_0_0_2": {
+    "readable": "sharing is caring",
+    "cmd": "action",
+    "params": { "input": 57, "index": 0, "subindex": 0, "specific": 2 }
+  },
+  "action_57_0_0_3": {
+    "readable": "oo-nye let's share",
+    "cmd": "action",
+    "params": { "input": 57, "index": 0, "subindex": 0, "specific": 3 }
+  },
+  "action_57_0_1_0": {
+    "readable": "post, post, do eeet.",
+    "cmd": "action",
+    "params": { "input": 57, "index": 0, "subindex": 1, "specific": 0 }
+  },
+  "action_57_0_1_1": {
+    "readable": "post it, post it now",
+    "cmd": "action",
+    "params": { "input": 57, "index": 0, "subindex": 1, "specific": 1 }
+  },
+  "action_57_1_0_0": {
+    "readable": "say cheese",
+    "cmd": "action",
+    "params": { "input": 57, "index": 1, "subindex": 0, "specific": 0 }
+  },
+  "action_57_1_0_1": {
+    "readable": "strike a pose",
+    "cmd": "action",
+    "params": { "input": 57, "index": 1, "subindex": 0, "specific": 1 }
+  },
+  "action_57_2_0_0": {
+    "readable": "let's share",
+    "cmd": "action",
+    "params": { "input": 57, "index": 2, "subindex": 0, "specific": 0 }
+  },
+  "action_57_2_0_1": {
+    "readable": "yes, yes share these",
+    "cmd": "action",
+    "params": { "input": 57, "index": 2, "subindex": 0, "specific": 1 }
+  },
+  "action_57_2_0_2": {
+    "readable": "sharing is caring",
+    "cmd": "action",
+    "params": { "input": 57, "index": 2, "subindex": 0, "specific": 2 }
+  },
+  "action_57_2_0_3": {
+    "readable": "oo-nye, let's share",
+    "cmd": "action",
+    "params": { "input": 57, "index": 2, "subindex": 0, "specific": 3 }
+  },
+  "action_57_3_0_0": {
+    "readable": "furbs, camera, action",
+    "cmd": "action",
+    "params": { "input": 57, "index": 3, "subindex": 0, "specific": 0 }
+  },
+  "action_57_3_0_1": {
+    "readable": "lookin' good little furbs",
+    "cmd": "action",
+    "params": { "input": 57, "index": 3, "subindex": 0, "specific": 1 }
+  },
+  "action_57_3_0_2": {
+    "readable": "oooh, lookin' good",
+    "cmd": "action",
+    "params": { "input": 57, "index": 3, "subindex": 0, "specific": 2 }
+  },
+  "action_57_3_0_3": {
+    "readable": "oooh, nice shot, very nice",
+    "cmd": "action",
+    "params": { "input": 57, "index": 3, "subindex": 0, "specific": 3 }
+  },
+  "action_57_3_0_4": {
+    "readable": "oooh, nice shot, very bee-yu-tiful",
+    "cmd": "action",
+    "params": { "input": 57, "index": 3, "subindex": 0, "specific": 4 }
+  },
+  "action_57_3_0_5": {
+    "readable": "ok, act natural",
+    "cmd": "action",
+    "params": { "input": 57, "index": 3, "subindex": 0, "specific": 5 }
+  }
+}
