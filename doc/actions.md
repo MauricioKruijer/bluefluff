@@ -169,7 +169,6 @@ However, this hierarchy can also be used in different ways. When playing songs i
 | 40    |  0    |     1    | 2        | "yes, yes, Thank you, thank you, thank you yes" |
 | 40    |  0    |     1    | 3        | "ooh, ooh, all the yes" |
 | 40    |  0    |     1    | 4        | stars in eyes, "for kah? It's beautiful" |
-| 40    |  0    |     1    | 4        | stars in eyes, "for kah? It's beautiful" |
 | 41    |  0    |     0    | 0        | "Weee diiid it!" |
 | 41    |  0    |     0    | 1        | "ha, ha! Take that!" |
 | 41    |  0    |     0    | 2        | "hoho, we good, aww yeah" |
